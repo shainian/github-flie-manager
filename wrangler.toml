@@ -2,7 +2,7 @@ name = "github-file-manager"
 main = "index.js"
 compatibility_date = "2024-01-01"
 
-# 环境变量配置
+# 环境变量配
 [vars]
 GITHUB_TOKEN = "ghp_token"
 GITHUB_OWNER = "shainian"
