@@ -4,7 +4,7 @@ compatibility_date = "2024-01-01"
 
 # 环境变量配置
 [vars]
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "ghp_token"
 GITHUB_OWNER = "shainian"
 GITHUB_REPO = "Wan-s-Mcweb"
 GITHUB_BRANCH = "main"
